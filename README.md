@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔬I'm currently working on a productivity website<br>🧑‍🤝‍🧑I'm looking to collaborate on the website development/UI UX development<br>🤝I'm looking for help with javascript for my website<br>🌱Currently learning intermediate C++ and basic JAVA<br>🏫 Currently Studying Information science & Engineering <br>💬Ask me about smartphones and PC-related queries<br>Contact Details:sumukhs41041@gmail.com
+🔬I'm currently working on a productivity website<br>🧑‍🤝‍🧑I'm looking to collaborate on the website development/UI UX development<br>🤝I'm looking for help with javascript for my website<br>🌱Currently learning intermediate C++ and basic JAVA<br>🏫 Currently Studying Information science & Engineering <br>💬Ask me about smartphones and PC-related queries<br>📧Mail id:sumukhs41041@gmail.com
 
 
 ## 🌐 Socials:
