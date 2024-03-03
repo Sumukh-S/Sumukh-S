@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 
 <div align="center"> 
-  <h1>
+
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Sumukh-S&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sumukh-S&theme=radical&hide_border=false)<br/>
@@ -52,5 +52,4 @@ Here are some ideas to get you started:
     <br />
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@SUMUKHS4) 
-  </h1>
 </div>
