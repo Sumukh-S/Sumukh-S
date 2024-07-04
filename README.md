@@ -2,12 +2,11 @@
   <h1>
     Hi there 👋
     <br />
-    <br />
     I am Sumukh S
     <br />
   </h1>
 </div>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumukh-s&label=Profile%20views&color=0e75b6&style=flat" alt="sumukh-s" /> </p>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+My+Profile;Full+Stack+Developer;Information+Science+Engineer)](https://git.io/typing-svg)
 <!--
 **Sumukh-S/Sumukh-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
