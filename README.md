@@ -40,6 +40,13 @@ Here are some ideas to get you started:
 
 <div align="center"> 
 
+<details>	
+ <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+</div>
+</details>
+
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Sumukh-S&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sumukh-S&theme=radical&hide_border=false)<br/>
