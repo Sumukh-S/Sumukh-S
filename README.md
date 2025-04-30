@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 💫 About Me:
-🔬I'm currently working on a AI model<br>🧑‍🤝‍🧑I'm looking to collaborate on the Website Development either in Spring or MERN<br>🤝I'm looking for help with Understanding AI Algorithms<br>🌱Currently learning AI and ML<br>🏫 Currently Studying Information science & Engineering <br>💬Ask me about Backend, Java or CP<br>📧Mail id:sumukhsbusiness@gmail.com
+🔬I'm currently working on a AI model<br>🧑‍🤝‍🧑I'm looking to collaborate on the Website Development either in Spring or MERN<br>🤝I'm looking for help with Understanding AI Algorithms<br>🌱Currently learning AI and ML<br>🏫 Currently Studying Information science & Engineering <br>💬Ask me about Backend, Java or CP<br>📧Mail id:sumukh.codes@gmail.com
 
 
 ## 🌐 Socials:
