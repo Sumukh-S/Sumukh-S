@@ -8,6 +8,9 @@ Building scalable backend systems, AI-powered applications, and developer tools.
 </h3>
 
 <p align="center">
+   <a href="https://sumukh-s.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
   <a href="mailto:sumukh.codes@gmail.com">
     <img src="https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -36,7 +39,7 @@ Building scalable backend systems, AI-powered applications, and developer tools.
 
 ## 🚀 Featured Projects
 
-#### MiniOrch — Multi-Agent Orchestration Engine
+#### [MiniOrch — Multi-Agent Orchestration Engine](https://miniorch.up.railway.app/)
 
 A workflow orchestration engine built from scratch without LangChain or LangGraph.
 
@@ -54,7 +57,7 @@ A workflow orchestration engine built from scratch without LangChain or LangGrap
 
 ---
 
-#### Mental Health Community Platform
+#### [Mental Health Community Platform](https://github.com/Sumukh-S/TheraConnect)
 
 AI-assisted mental health platform with human-in-the-loop verification.
 
@@ -71,7 +74,7 @@ AI-assisted mental health platform with human-in-the-loop verification.
 
 ---
 
-#### Anemia & Malnutrition Detection
+#### Anemia & Malnutrition Detection 🔒
 
 Machine Learning pipeline for non-invasive childhood malnutrition detection using salivary biomarkers.
 
@@ -82,7 +85,7 @@ Machine Learning pipeline for non-invasive childhood malnutrition detection usin
 - Model training
 - Classification pipeline
 
-📄 Published at **IEEE COSMIC 2025**
+📄 Published at [**IEEE COSMIC 2025**](https://ieeexplore.ieee.org/document/11380947/)
 
 ---
 
@@ -102,12 +105,11 @@ Machine Learning pipeline for non-invasive childhood malnutrition detection usin
 **Information Science Student Developer Club**
 
 - Led 20+ student developers
-- Organized technical workshops and events
 - Mentored project teams and open-source contributors
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack 
 
 #### Languages
 
@@ -141,26 +143,20 @@ Machine Learning pipeline for non-invasive childhood malnutrition detection usin
 `CI/CD`
 `Agile`
 `Claude Code`
+`Vercel`
+`azure`
+
 
 ---
 
 ## 🏆 Achievements
 
-- 🏅 Winner — Intra-Department Cybersecurity Challenge
-- 🥈 Top 5 — CodeBlaze Hackathon
-- 🏅 Top 10 — CodeQuest (SOSC)
 - 📄 Published & Presented at **IEEE COSMIC 2025**
 - 💻 LeetCode Rating — **1752**
-- ☁ Oracle Cloud Infrastructure 2025 Certified Data Science Professional
 
 ---
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sumukh-S&show_icons=true&hide_border=true&theme=transparent" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumukh-S&layout=compact&hide_border=true&theme=transparent" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumukh-S&theme=transparent&hide_border=true" />
